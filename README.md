@@ -1,2 +1,2 @@
 # diceGameJs
-A Simple javascript game!
+A Simple javascript pig game!
